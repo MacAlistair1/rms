@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "584903628024",
+    "firebase_url": "https://rmsproject-c5075.firebaseio.com",
+    "project_id": "rmsproject-c5075",
+    "storage_bucket": "rmsproject-c5075.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584903628024:android:f61b73667a7d30b4",
+        "android_client_info": {
+          "package_name": "com.mis.community.rms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584903628024-363et5vfomsd40jao67270l2chgru13a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mis.community.rms",
+            "certificate_hash": "96e33938e8132ef5a559925d3bf3947466755701"
+          }
+        },
+        {
+          "client_id": "584903628024-fhjtvfmtnr812cqji51t3951nkm7ekte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH-HEkCJ7867hndsyaMlXDGZw41O_C-Gk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584903628024-fhjtvfmtnr812cqji51t3951nkm7ekte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
